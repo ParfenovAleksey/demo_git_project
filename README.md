@@ -1,2 +1,3 @@
 # demo_git_project
-ssnapisali aaaalllllwwweee
+Удалил все папки теперь в папки skillbox
+
